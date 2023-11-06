@@ -1,0 +1,326 @@
+commander,drawrate (%),winrate (%),lossrate (%),non_draw_winrate (%),#games
+"Heliod, the Radiant Dawn // Heliod, the Warped Eclipse",13.00,22.00,65.00,25.29,100
+"Hapatra, Vizier of Poisons",3.45,24.14,72.41,25.00,29
+"Thrasios, Triton Hero / Tymna the Weaver",17.87,20.96,61.17,25.52,649
+"Winota, Joiner of Forces",11.17,18.11,70.72,20.39,806
+"Kinnan, Bonder Prodigy",14.84,22.82,62.35,26.79,1867
+"K'rrik, Son of Yawgmoth",8.18,19.56,72.26,21.30,501
+"Tameshi, Reality Architect",21.88,25.00,53.12,32.00,32
+"Najeela, the Blade-Blossom",12.85,24.07,63.08,27.62,1728
+"Tivit, Seller of Secrets",16.85,24.59,58.56,29.57,1810
+Unknown Commander,9.76,18.11,72.14,20.07,1353
+"Kraum, Ludevic's Opus / Tymna the Weaver",14.01,27.64,58.35,32.14,2862
+"Tasigur, the Golden Fang",14.55,16.36,69.09,19.15,110
+"Marwyn, the Nurturer",7.04,14.08,78.87,15.15,71
+Slimefoot and Squee,6.67,16.67,76.67,17.86,60
+"Korvold, Fae-Cursed King",10.34,23.28,66.38,25.96,348
+"Kenrith, the Returned King",16.46,25.62,57.92,30.67,644
+Saffi Eriksdotter,9.09,27.27,63.64,30.00,22
+"Yisan, the Wanderer Bard",14.96,23.62,61.42,27.78,127
+"Tana, the Bloodsower / Tymna the Weaver",15.81,21.74,62.45,25.82,253
+"Magda, Brazen Outlaw",10.56,23.00,66.43,25.72,426
+"Rielle, the Everwise",19.23,28.85,51.92,35.71,52
+"Liberator, Urza's Battlethopter",15.56,18.89,65.56,22.37,90
+"Tevesh Szat, Doom of Fools / Thrasios, Triton Hero",16.60,24.29,59.11,29.13,247
+"Bruse Tarl, Boorish Herder / Thrasios, Triton Hero",15.80,23.00,61.20,27.31,848
+"Okaun, Eye of Chaos / Zndrsplt, Eye of Wisdom",23.08,15.38,61.54,20.00,13
+The First Sliver,10.94,18.75,70.31,21.05,64
+"Koll, the Forgemaster",4.76,28.57,66.67,30.00,42
+Thalia and The Gitrog Monster,13.48,16.85,69.66,19.48,89
+"Dargo, the Shipwrecker / Thrasios, Triton Hero",13.71,26.25,60.03,30.43,598
+"Sisay, Weatherlight Captain",13.96,26.69,59.35,31.02,1139
+Zur the Enchanter,20.00,23.20,56.80,29.00,125
+Kodama of the East Tree / Tymna the Weaver,20.65,19.57,59.78,24.66,92
+"Derevi, Empyrial Tactician",19.77,16.28,63.95,20.29,86
+Shalai and Hallar,14.94,19.54,65.52,22.97,174
+"Chulane, Teller of Tales",6.82,11.36,81.82,12.20,44
+"Niv-Mizzet, Parun",15.67,25.93,58.40,30.74,351
+"Jhoira, Weatherlight Captain",8.10,29.52,62.38,32.12,210
+"Kraum, Ludevic's Opus / Tevesh Szat, Doom of Fools",18.41,27.61,53.98,33.84,402
+Meren of Clan Nel Toth,3.45,13.79,82.76,14.29,29
+"Ishai, Ojutai Dragonspeaker / Jeska, Thrice Reborn",12.50,14.06,73.44,16.07,128
+"Esika, God of the Tree // The Prismatic Bridge",3.23,29.03,67.74,30.00,62
+"Zhulodok, Void Gorger",0.00,36.36,63.64,36.36,11
+"Yuriko, the Tiger's Shadow",12.55,20.78,66.67,23.77,765
+"Ishai, Ojutai Dragonspeaker / Tevesh Szat, Doom of Fools",10.00,22.00,68.00,24.44,50
+"Teshar, Ancestor's Apostle",12.12,12.12,75.76,13.79,33
+"Ob Nixilis, Captive Kingpin",11.21,19.70,69.09,22.18,330
+"Atraxa, Grand Unifier",15.58,25.53,58.89,30.24,995
+"Evelyn, the Covetous",10.19,19.44,70.37,21.65,108
+"Yusri, Fortune's Flame",33.33,33.33,33.33,50.00,9
+"Hinata, Dawn-Crowned",27.27,9.09,63.64,12.50,33
+"Daretti, Scrap Savant",10.71,25.00,64.29,28.00,28
+"Thrasios, Triton Hero / Yoshimaru, Ever Faithful",18.52,22.22,59.26,27.27,27
+"Breya, Etherium Shaper",14.15,22.64,63.21,26.37,106
+"Inalla, Archmage Ritualist",10.92,25.86,63.22,29.03,174
+"Birgi, God of Storytelling // Harnfel, Horn of Bounty",3.70,18.52,77.78,19.23,27
+Grand Arbiter Augustin IV,25.93,3.70,70.37,5.00,27
+"Malcolm, Keen-Eyed Navigator / Tana, the Bloodsower",9.52,25.60,64.88,28.29,336
+"Chainer, Nightmare Adept",11.11,33.33,55.56,37.50,9
+Hidetsugu and Kairi,5.26,15.79,78.95,16.67,19
+"Jeska, Thrice Reborn / Tymna the Weaver",11.74,23.72,64.55,26.87,409
+Borborygmos and Fblthp,14.29,9.52,76.19,11.11,21
+"Ayara, Widow of the Realm // Ayara, Furnace Queen",50.00,25.00,25.00,50.00,4
+"Gyruda, Doom of Depths",20.00,17.14,62.86,21.43,35
+"Dargo, the Shipwrecker / Tymna the Weaver",14.38,28.08,57.53,32.80,146
+The Gitrog Monster,9.69,15.31,75.00,16.95,196
+"Nicol Bolas, the Ravager // Nicol Bolas, the Arisen",15.00,40.00,45.00,47.06,20
+"Krark, the Thumbless / Sakashima of a Thousand Faces",13.02,21.05,65.93,24.20,361
+"Selvala, Explorer Returned",16.67,16.67,66.67,20.00,18
+"Talion, the Kindly Lord",21.07,20.36,58.57,25.79,280
+Elsha of the Infinite,18.06,27.08,54.86,33.05,144
+"Rashmi, Eternities Crafter",8.33,33.33,58.33,36.36,12
+"Thrasios, Triton Hero / Vial Smasher the Fierce",7.78,26.11,66.11,28.31,180
+"Minsc, Beloved Ranger",13.49,24.60,61.90,28.44,126
+"Selvala, Heart of the Wilds",16.30,14.13,69.57,16.88,92
+"Jeska, Thrice Reborn / Thrasios, Triton Hero",23.68,15.79,60.53,20.69,38
+"Rocco, Cabaretti Caterer",12.15,21.92,65.93,24.95,543
+"Cazur, Ruthless Stalker / Ukkima, Stalking Shadow",14.00,8.00,78.00,9.30,50
+Tiamat,0.00,20.00,80.00,20.00,10
+"Prosper, Tome-Bound",12.05,16.87,71.08,19.18,83
+"Narset, Enlightened Master",3.57,25.00,71.43,25.93,84
+"Raffine, Scheming Seer",14.67,18.67,66.67,21.88,150
+"Yawgmoth, Thran Physician",10.34,6.90,82.76,7.69,29
+"Rograkh, Son of Rohgahh / Silas Renn, Seeker Adept",12.90,25.16,61.95,28.88,946
+Captain Sisay,17.12,25.23,57.66,30.43,111
+"Folk Hero / Volo, Itinerant Scholar",50.00,25.00,25.00,50.00,4
+"Varina, Lich Queen",10.00,10.00,80.00,11.11,10
+"Omnath, Locus of Creation",13.64,16.67,69.70,19.30,66
+"Azami, Lady of Scrolls",20.83,12.50,66.67,15.79,24
+"Orvar, the All-Form",14.04,15.79,70.18,18.37,57
+"Neheb, Dreadhorde Champion",0.00,25.00,75.00,25.00,8
+"Jhoira, Ageless Innovator",16.67,12.50,70.83,15.00,24
+"Malcolm, Keen-Eyed Navigator / Tymna the Weaver",15.33,22.22,62.44,26.25,450
+"Malcolm, Keen-Eyed Navigator / Vial Smasher the Fierce",15.38,23.98,60.63,28.34,442
+Mizzix of the Izmagnus,17.39,4.35,78.26,5.26,23
+"Rograkh, Son of Rohgahh / Thrasios, Triton Hero",14.29,24.00,61.71,28.00,175
+"Krark, the Thumbless / Thrasios, Triton Hero",20.90,22.39,56.72,28.30,67
+"Teferi, Temporal Archmage",13.85,24.62,61.54,28.57,65
+"Urza, Lord High Artificer",14.23,14.60,71.17,17.02,274
+"Animar, Soul of Elements",9.62,21.15,69.23,23.40,104
+"Dargo, the Shipwrecker / Tevesh Szat, Doom of Fools",10.71,21.43,67.86,24.00,28
+"Edric, Spymaster of Trest",17.95,15.38,66.67,18.75,78
+Anje Falkenrath,7.14,16.67,76.19,17.95,42
+"Kozilek, the Great Distortion",0.00,20.83,79.17,20.83,24
+"Shorikai, Genesis Engine",16.67,17.74,65.59,21.29,186
+"Heliod, Sun-Crowned",20.25,16.46,63.29,20.63,79
+"Liesa, Shroud of Dusk",16.67,16.67,66.67,20.00,6
+"Ikra Shidiqi, the Usurper / Kraum, Ludevic's Opus",11.83,24.73,63.44,28.05,93
+Arcum Dagsson,14.29,23.81,61.90,27.78,21
+"Tayam, Luminous Enigma",16.02,22.07,61.91,26.28,512
+"Kraum, Ludevic's Opus / Thrasios, Triton Hero",17.95,17.95,64.10,21.88,39
+"Kediss, Emberclaw Familiar / Malcolm, Keen-Eyed Navigator",15.98,21.89,62.13,26.06,169
+"Merry, Warden of Isengard / Pippin, Warden of Isengard",0.00,50.00,50.00,50.00,4
+"Krark, the Thumbless / Silas Renn, Seeker Adept",18.75,28.12,53.12,34.62,32
+"Kamahl, Heart of Krosa / Tymna the Weaver",25.00,8.33,66.67,11.11,24
+"Kykar, Wind's Fury",4.17,12.50,83.33,13.04,24
+"Ruric Thar, the Unbowed",20.59,5.88,73.53,7.41,34
+"Ikra Shidiqi, the Usurper / Tymna the Weaver",36.00,16.00,48.00,25.00,25
+"Grenzo, Dungeon Warden",0.00,25.00,75.00,25.00,8
+Prime Speaker Vannifar,23.81,19.05,57.14,25.00,21
+"Ghave, Guru of Spores",0.00,25.00,75.00,25.00,4
+"Slicer, Hired Muscle // Slicer, High-Speed Antagonist",10.74,24.83,64.43,27.82,149
+"Dihada, Binder of Wills",12.69,25.70,61.61,29.43,323
+"Etali, Primal Conqueror // Etali, Primal Sickness",16.28,17.05,66.67,20.37,129
+"Godo, Bandit Warlord",11.34,18.56,70.10,20.93,97
+"Feather, the Redeemed",16.67,50.00,33.33,60.00,6
+"Aesi, Tyrant of Gyre Strait",8.89,22.22,68.89,24.39,45
+Marneus Calgar,14.94,14.94,70.11,17.57,87
+"Kess, Dissident Mage",6.11,24.43,69.47,26.02,131
+"Codie, Vociferous Codex",8.51,17.02,74.47,18.60,47
+"Minsc & Boo, Timeless Heroes",11.50,13.27,75.22,15.00,113
+"Sauron, the Dark Lord",10.53,17.54,71.93,19.61,114
+The Locust God,0.00,20.00,80.00,20.00,10
+"Bjorna, Nightfall Alchemist / Wernog, Rider's Chaplain",15.91,29.55,54.55,35.14,88
+"Varragoth, Bloodsky Sire",12.50,37.50,50.00,42.86,32
+Gandalf the White,0.00,7.69,92.31,7.69,13
+"Rograkh, Son of Rohgahh / Tevesh Szat, Doom of Fools",15.04,22.56,62.41,26.55,133
+"Cormela, Glamour Thief",11.01,15.60,73.39,17.53,109
+Scion of the Ur-Dragon,21.74,21.74,56.52,27.78,23
+"Marath, Will of the Wild",15.15,24.24,60.61,28.57,33
+"Lonis, Cryptozoologist",8.70,13.04,78.26,14.29,23
+"Haldan, Avid Arcanist / Pako, Arcane Retriever",14.29,15.97,69.75,18.63,119
+"Dargo, the Shipwrecker / Jeska, Thrice Reborn",0.00,40.00,60.00,40.00,5
+"Hurkyl, Master Wizard",20.00,20.00,60.00,25.00,10
+"Adeline, Resplendent Cathar",0.00,21.05,78.95,21.05,19
+"Ardenn, Intrepid Archaeologist / Kraum, Ludevic's Opus",22.73,18.18,59.09,23.53,22
+Sliver Overlord,0.00,8.33,91.67,8.33,12
+"Kraum, Ludevic's Opus / Malcolm, Keen-Eyed Navigator",14.81,18.52,66.67,21.74,27
+Captain N'ghathrod,20.00,40.00,40.00,50.00,5
+"Tergrid, God of Fright // Tergrid's Lantern",16.67,11.11,72.22,13.33,18
+Yargle and Multani,0.00,8.33,91.67,8.33,12
+"Jodah, the Unifier",7.69,3.85,88.46,4.17,26
+"Yasharn, Implacable Earth",12.50,6.25,81.25,7.14,32
+The Scarab God,4.17,20.83,75.00,21.74,24
+"Krenko, Mob Boss",2.00,16.00,82.00,16.33,50
+"Akiri, Line-Slinger / Thrasios, Triton Hero",16.67,25.00,58.33,30.00,36
+Niv-Mizzet Reborn,14.29,28.57,57.14,33.33,7
+"Emry, Lurker of the Loch",9.09,15.15,75.76,16.67,33
+"Narset, Enlightened Exile",15.73,20.22,64.04,24.00,89
+"Aragorn, the Uniter",8.82,8.82,82.35,9.68,34
+"Ishai, Ojutai Dragonspeaker / Thrasios, Triton Hero",22.22,22.22,55.56,28.57,27
+Kroxa and Kunoros,4.35,15.22,80.43,15.91,46
+"Muldrotha, the Gravetide",14.29,14.29,71.43,16.67,14
+Oswald Fiddlebender,16.22,13.51,70.27,16.13,37
+Magus Lucea Kane,18.75,12.50,68.75,15.38,16
+"Jetmir, Nexus of Revels",11.81,20.47,67.72,23.21,127
+"Uril, the Miststalker",0.00,14.29,85.71,14.29,7
+Abaddon the Despoiler,7.69,23.08,69.23,25.00,13
+"Dargo, the Shipwrecker / Ikra Shidiqi, the Usurper",8.74,22.33,68.93,24.47,103
+"Gishath, Sun's Avatar",6.25,6.25,87.50,6.67,16
+Durnan of the Yawning Portal / Scion of Halaster,0.00,20.00,80.00,20.00,5
+"Sythis, Harvest's Hand",16.78,12.59,70.63,15.13,143
+"Naru Meha, Master Wizard",25.00,33.33,41.67,44.44,12
+The War Doctor / Vislor Turlough,16.67,33.33,50.00,40.00,6
+"Cultist of the Absolute / Vhal, Candlekeep Researcher",10.00,20.00,70.00,22.22,10
+"Zirda, the Dawnwaker",10.64,23.40,65.96,26.19,47
+"Ghyrson Starn, Kelermorph",18.18,33.33,48.48,40.74,33
+Missy,0.00,33.33,66.67,33.33,3
+"Malcolm, Keen-Eyed Navigator / Tevesh Szat, Doom of Fools",54.55,9.09,36.36,20.00,11
+"Halana, Kessig Ranger / Tymna the Weaver",9.09,22.73,68.18,25.00,66
+Sakashima of a Thousand Faces / Tymna the Weaver,7.14,14.29,78.57,15.38,14
+"Florian, Voldaren Scion",6.67,28.33,65.00,30.36,60
+"Oskar, Rubbish Reclaimer",13.64,22.73,63.64,26.32,22
+"Noble Heritage / Vhal, Candlekeep Researcher",14.29,14.29,71.43,16.67,21
+"Anhelo, the Painter",41.67,33.33,25.00,57.14,12
+"Tatyova, Benthic Druid",25.71,37.14,37.14,50.00,35
+Sidar Kondo of Jamuraa / Tymna the Weaver,0.00,25.00,75.00,25.00,4
+"Rionya, Fire Dancer",13.95,20.93,65.12,24.32,43
+Kaalia of the Vast,8.00,18.00,74.00,19.57,50
+"Vadrik, Astral Archmage",29.03,16.13,54.84,22.73,31
+"Armix, Filigree Thrasher / Kraum, Ludevic's Opus",10.14,21.74,68.12,24.19,69
+"Chatterfang, Squirrel General",6.06,12.12,81.82,12.90,33
+"Solphim, Mayhem Dominus",14.29,42.86,42.86,50.00,7
+"Wilhelt, the Rotcleaver",0.00,14.29,85.71,14.29,14
+"Lazav, the Multifarious",23.08,7.69,69.23,10.00,13
+"Rograkh, Son of Rohgahh / Tymna the Weaver",9.52,35.71,54.76,39.47,42
+"Lathril, Blade of the Elves",0.00,14.29,85.71,14.29,7
+"Jeska, Thrice Reborn / Yoshimaru, Ever Faithful",11.76,11.76,76.47,13.33,17
+"Grazilaxx, Illithid Scholar",11.11,22.22,66.67,25.00,9
+"Yeva, Nature's Herald",8.89,31.11,60.00,34.15,45
+"Zabaz, the Glimmerwasp",0.00,22.22,77.78,22.22,9
+Hans Eriksson,5.56,38.89,55.56,41.18,18
+Ratadrabik of Urborg,23.08,15.38,61.54,20.00,13
+"Nezahal, Primal Tide",0.00,30.00,70.00,30.00,10
+"Kiki-Jiki, Mirror Breaker",0.00,25.00,75.00,25.00,4
+"Plargg, Dean of Chaos // Augusta, Dean of Order",33.33,33.33,33.33,50.00,3
+"Ashaya, Soul of the Wild",13.95,18.60,67.44,21.62,43
+"Ao, the Dawn Sky",20.83,12.50,66.67,15.79,24
+Emiel the Blessed,10.53,21.05,68.42,23.53,19
+"Toxrill, the Corrosive",4.00,12.00,84.00,12.50,25
+"Tadeas, Juniper Ascendant",20.83,8.33,70.83,10.53,24
+Sen Triplets,12.50,25.00,62.50,28.57,8
+"Erinis, Gloom Stalker / Street Urchin",29.63,29.63,40.74,42.11,27
+"Urza, Lord Protector",0.00,28.57,71.43,28.57,7
+"Sai, Master Thopterist",0.00,25.00,75.00,25.00,4
+"Scion of Halaster / Zellix, Sanity Flayer",0.00,20.00,80.00,20.00,5
+Kodama of the East Tree / Sakashima of a Thousand Faces,10.34,31.03,58.62,34.62,58
+"Nymris, Oona's Trickster",18.18,30.30,51.52,37.04,33
+"Nekusar, the Mindrazer",7.14,10.71,82.14,11.54,28
+The Ur-Dragon,6.67,6.67,86.67,7.14,15
+"Atla Palani, Nest Tender",0.00,9.09,90.91,9.09,11
+"Raggadragga, Goreguts Boss",0.00,33.33,66.67,33.33,6
+"Heliod, God of the Sun",0.00,25.00,75.00,25.00,4
+"Brallin, Skyshark Rider / Shabraz, the Skyshark",14.04,14.04,71.93,16.33,57
+"Elesh Norn, Mother of Machines",20.00,20.00,60.00,25.00,15
+"Yidris, Maelstrom Wielder",7.14,14.29,78.57,15.38,28
+"Eruth, Tormented Prophet",3.45,6.90,89.66,7.14,29
+"Jenson Carthalion, Druid Exile",12.82,20.51,66.67,23.53,39
+Lord Windgrace,22.22,11.11,66.67,14.29,18
+"Ikra Shidiqi, the Usurper / Ishai, Ojutai Dragonspeaker",22.22,11.11,66.67,14.29,9
+"Kroxa, Titan of Death's Hunger",0.00,40.00,60.00,40.00,5
+Go-Shintai of Life's Origin,12.50,37.50,50.00,42.86,16
+"Atraxa, Praetors' Voice",18.18,18.18,63.64,22.22,11
+Teysa Karlov,0.00,14.29,85.71,14.29,7
+"Sheoldred, the Apocalypse",6.25,6.25,87.50,6.67,16
+"Myrel, Shield of Argive",22.73,18.18,59.09,23.53,22
+"Bruse Tarl, Boorish Herder / Malcolm, Keen-Eyed Navigator",13.89,13.89,72.22,16.13,36
+"Tevesh Szat, Doom of Fools / Tymna the Weaver",22.22,5.56,72.22,7.14,18
+"Dina, Soul Steeper",6.90,10.34,82.76,11.11,29
+Mayael the Anima,0.00,16.67,83.33,16.67,6
+"Grolnok, the Omnivore",5.56,11.11,83.33,11.76,18
+"Braids, Arisen Nightmare",9.38,18.75,71.88,20.69,32
+"Tazri, Beacon of Unity",0.00,18.18,81.82,18.18,22
+"Abdel Adrian, Gorion's Ward / Candlekeep Sage",14.29,14.29,71.43,16.67,7
+"Kalamax, the Stormsire",29.63,7.41,62.96,10.53,27
+"Cecily, Haunted Mage / Sophina, Spearsage Deserter",19.05,4.76,76.19,5.88,21
+"Rigo, Streetwise Mentor",26.67,13.33,60.00,18.18,15
+"Jeska, Thrice Reborn / Rograkh, Son of Rohgahh",0.00,9.09,90.91,9.09,11
+"Prossh, Skyraider of Kher",22.86,25.71,51.43,33.33,35
+"Vohar, Vodalian Desecrator",4.35,17.39,78.26,18.18,23
+"Rowan, Scion of War",4.17,8.33,87.50,8.70,48
+"Bruse Tarl, Boorish Herder / Tana, the Bloodsower",21.43,21.43,57.14,27.27,14
+Zimone and Dina,0.00,10.00,90.00,10.00,10
+"Ardenn, Intrepid Archaeologist / Tana, the Bloodsower",14.29,28.57,57.14,33.33,7
+"Vaevictis Asmadi, the Dire",13.33,13.33,73.33,15.38,15
+"Tana, the Bloodsower / Tevesh Szat, Doom of Fools",4.35,8.70,86.96,9.09,23
+"Armix, Filigree Thrasher / Tymna the Weaver",28.57,42.86,28.57,60.00,7
+The Beamtown Bullies,0.00,50.00,50.00,50.00,4
+"Lagomos, Hand of Hatred",0.00,40.00,60.00,40.00,5
+"Mahadi, Emporium Master",25.00,25.00,50.00,33.33,4
+"Karador, Ghost Chieftain",0.00,50.00,50.00,50.00,4
+"Brago, King Eternal",0.00,28.57,71.43,28.57,7
+The Howling Abomination,7.69,15.38,76.92,16.67,13
+Lord of the Nazgûl,12.50,12.50,75.00,14.29,8
+"Grist, the Hunger Tide",7.41,22.22,70.37,24.00,27
+"Dargo, the Shipwrecker / Silas Renn, Seeker Adept",3.70,22.22,74.07,23.08,27
+"Purphoros, God of the Forge",7.69,7.69,84.62,8.33,13
+"Kira, Great Glass-Spinner",0.00,20.00,80.00,20.00,5
+"Wort, Boggart Auntie",20.00,40.00,40.00,50.00,5
+"Zaxara, the Exemplary",7.14,7.14,85.71,7.69,14
+"Falthis, Shadowcat Familiar / Kraum, Ludevic's Opus",40.00,20.00,40.00,33.33,5
+"Rakdos, Lord of Riots",16.67,33.33,50.00,40.00,6
+Acererak the Archlich,0.00,20.00,80.00,20.00,5
+"Imoti, Celebrant of Bounty",0.00,40.00,60.00,40.00,5
+"Kodama of the East Tree / Toggo, Goblin Weaponsmith",0.00,20.00,80.00,20.00,5
+Ellivere of the Wild Court,18.60,16.28,65.12,20.00,43
+"Ishai, Ojutai Dragonspeaker / Tymna the Weaver",0.00,20.00,80.00,20.00,5
+"Malik, Grim Manipulator",10.00,10.00,80.00,11.11,10
+"Greven, Predator Captain",0.00,25.00,75.00,25.00,4
+"Aragorn, King of Gondor",25.00,16.67,58.33,22.22,12
+"Queza, Augur of Agonies",0.00,25.00,75.00,25.00,4
+Gandalf the Grey,12.50,12.50,75.00,14.29,8
+"Koma, Cosmos Serpent",0.00,25.00,75.00,25.00,4
+"Padeem, Consul of Innovation",0.00,40.00,60.00,40.00,5
+"Xyris, the Writhing Storm",18.18,27.27,54.55,33.33,11
+"Malcolm, Keen-Eyed Navigator / Rograkh, Son of Rohgahh",25.00,25.00,50.00,33.33,12
+"Kodama of the East Tree / Tevesh Szat, Doom of Fools",11.11,22.22,66.67,25.00,9
+Merieke Ri Berit,20.00,20.00,60.00,25.00,5
+"Azusa, Lost but Seeking",0.00,22.22,77.78,22.22,9
+Galazeth Prismari,33.33,22.22,44.44,33.33,9
+"Yennett, Cryptic Sovereign",18.75,12.50,68.75,15.38,16
+"Dargo, the Shipwrecker / Sidar Kondo of Jamuraa",0.00,20.00,80.00,20.00,10
+"Ikra Shidiqi, the Usurper / Rograkh, Son of Rohgahh",0.00,25.00,75.00,25.00,12
+Sefris of the Hidden Ways,16.00,28.00,56.00,33.33,25
+"Krark, the Thumbless / Tymna the Weaver",0.00,25.00,75.00,25.00,4
+Moira and Teshar,16.67,25.00,58.33,30.00,12
+"Akiri, Line-Slinger / Tevesh Szat, Doom of Fools",28.57,7.14,64.29,10.00,14
+"Jaxis, the Troublemaker",0.00,10.00,90.00,10.00,10
+Elminster,8.33,8.33,83.33,9.09,12
+"Esior, Wardwing Familiar / Tymna the Weaver",25.00,25.00,50.00,33.33,4
+"Jegantha, the Wellspring",0.00,20.00,80.00,20.00,5
+"Jacob Hauken, Inspector // Hauken's Insight",9.09,27.27,63.64,30.00,11
+"Unesh, Criosphinx Sovereign",14.29,14.29,71.43,16.67,7
+"Geth, Lord of the Vault",0.00,25.00,75.00,25.00,4
+"Breeches, Brazen Plunderer / Malcolm, Keen-Eyed Navigator",0.00,66.67,33.33,66.67,6
+"Armix, Filigree Thrasher / Thrasios, Triton Hero",28.57,28.57,42.86,40.00,7
+"Alesha, Who Smiles at Death",0.00,50.00,50.00,50.00,4
+"Elmar, Ulvenwald Informant / Wernog, Rider's Chaplain",0.00,25.00,75.00,25.00,8
+"Extus, Oriq Overlord // Awaken the Blood Avatar",0.00,25.00,75.00,25.00,8
+Trazyn the Infinite,0.00,25.00,75.00,25.00,4
+"Unctus, Grand Metatect",11.11,11.11,77.78,12.50,9
+"Thada Adel, Acquisitor",21.43,21.43,57.14,27.27,14
+Samwise Gamgee,28.57,28.57,42.86,40.00,7
+Heartless Hidetsugu,20.00,20.00,60.00,25.00,10
+"Ardenn, Intrepid Archaeologist / Rograkh, Son of Rohgahh",25.00,25.00,50.00,33.33,4
+River Song,16.67,50.00,33.33,60.00,6
+"Zada, Hedron Grinder",0.00,25.00,75.00,25.00,4
+"Dargo, the Shipwrecker / Malcolm, Keen-Eyed Navigator",9.09,9.09,81.82,10.00,11
+"Niv-Mizzet, Supreme",0.00,14.29,85.71,14.29,7
+"Vadrok, Apex of Thunder",10.00,10.00,80.00,11.11,10
+"Jin-Gitaxias, Progress Tyrant",0.00,25.00,75.00,25.00,4
+"Totentanz, Swarm Piper",20.00,20.00,60.00,25.00,5
+"Killian, Ink Duelist",0.00,25.00,75.00,25.00,4
+"Runadi, Behemoth Caller",0.00,25.00,75.00,25.00,4
+"Gavi, Nest Warden",0.00,28.57,71.43,28.57,7
+"Toski, Bearer of Secrets",16.67,33.33,50.00,40.00,6
